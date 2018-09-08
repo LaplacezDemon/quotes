@@ -19,10 +19,11 @@ module.exports = StyleSheet.create({
     fontFamily: "Merriweather-Light",
     fontSize: 30, 
     textAlign: "center",
-    // flex: 1,
-    // justifyContent: "center",
-    // alignItems: "center",
-    // backgroundColor: "#F5FCFF"
-    //margin: 10
+  },
+  author: {
+    fontFamily: "Merriweather-Light",
+    fontSize: 15,
+    textAlign: "center",
+    paddingTop: 20
   }
 });
